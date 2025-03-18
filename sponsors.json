@@ -1,0 +1,32 @@
+[
+    {
+        "name": "zheka",
+        "amount": 500, 
+        "image": "default_avatar.png"
+    },
+    {
+        "name": "egoro",
+        "amount": 300, 
+        "image": "default_avatar.png"
+    },
+    {
+        "name": "olego", 
+        "amount": 200, 
+        "image": "default_avatar.png"
+    },
+    {
+        "name": "serui", 
+        "amount": 100, 
+        "image": "default_avatar.png"
+    },
+    {
+        "name": "egorodo",
+        "amount": 100, 
+        "image": "default_avatar.png"
+    },
+    {
+        "name": "spons1", 
+        "amount": 50, 
+        "image": "default_avatar.png"
+    }
+]
