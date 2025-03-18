@@ -2,31 +2,31 @@
     {
         "name": "zheka",
         "amount": 500, 
-        "image": "default_avatar.png"
+        "image": "https://github.com/jmksjm/sponsor-data/blob/main/img/zheka.jpg"
     },
     {
         "name": "egoro",
         "amount": 300, 
-        "image": "default_avatar.png"
+        "image": "https://github.com/jmksjm/sponsor-data/blob/main/img/egoro.jpg"
     },
     {
         "name": "olego", 
         "amount": 200, 
-        "image": "default_avatar.png"
+        "image": "https://github.com/jmksjm/sponsor-data/blob/main/img/olego.jpg"
     },
     {
         "name": "serui", 
         "amount": 100, 
-        "image": "default_avatar.png"
+        "image": "https://github.com/jmksjm/sponsor-data/blob/main/img/serui.jpg"
     },
     {
         "name": "egorodo",
         "amount": 100, 
-        "image": "default_avatar.png"
+        "image": "https://github.com/jmksjm/sponsor-data/blob/main/img/egorodo.jpg"
     },
     {
         "name": "spons1", 
         "amount": 50, 
-        "image": "default_avatar.png"
+        "image": "https://github.com/jmksjm/sponsor-data/blob/main/img/spons1.jpg"
     }
 ]
